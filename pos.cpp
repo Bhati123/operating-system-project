@@ -7,7 +7,7 @@ int main()
     printf("Enter total no of proces:");
     scanf("%d",&n);
      printf("\n Enter arrival time for each process:-");
-    for(t=0;t<n;t++)
+    for(t=0;t<n;t++)//lkj
     {
         printf("\n arrival time of process P %d:",t);
         scanf("%d",&at[t]);
