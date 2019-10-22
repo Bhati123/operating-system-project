@@ -11,7 +11,7 @@ int main()
     {
         printf("\n arrival time of process P %d:",t);
         scanf("%d",&at[t]);
-        p[t]=t;
+        p[t]=t;   /eeee
     }
     printf("\n Enter burst time for each process:-");
     for(i=0;i<n;i++)
